@@ -1,7 +1,5 @@
-/* src/app/globals.css */
-
-/* 1) Tailwind v4 reset & base */
 @import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
 
 /* 2) Your CSS variables */
 :root {
@@ -28,6 +26,3 @@ body {
   .btn { @apply px-4 py-2 bg-blue-600 text-white rounded; }
   */
 }
-
-/* 5) All Tailwind utility classes */
-@tailwind utilities;

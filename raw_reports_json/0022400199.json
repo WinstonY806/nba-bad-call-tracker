@@ -1,0 +1,137 @@
+{
+    "game": [
+        {
+            "Home_team": "Cavaliers",
+            "Away_team": "Nets",
+            "GameId": "0022400199",
+            "HomeTeamScore": 105,
+            "VisitorTeamScore": 100,
+            "GameDate": "2024-11-09T19:30:00",
+            "HomeTeamId": 1610612739,
+            "AwayTeamId": 1610612751,
+            "Home_team_abbr": "CLE",
+            "Away_team_abbr": "BKN",
+            "L2M_Comments": null,
+            "GameDateOut": "November 09, 2024"
+        }
+    ],
+    "stats": [
+        {
+            "stats_name": "Calls",
+            "home": 1,
+            "away": 0
+        },
+        {
+            "stats_name": "Errors in Favor",
+            "home": 0,
+            "away": 0
+        },
+        {
+            "stats_name": "Possessions in Favor",
+            "home": 0,
+            "away": 0
+        }
+    ],
+    "l2m": [
+        {
+            "PeriodName": "Q4",
+            "PCTime": "01:39.5",
+            "ImposibleIndicator": 0,
+            "Comment": "Mobley (CLE) swipes down and initiates contact with Schr?der&apos;s (BKN) arms, which affects his driving shot attempt.",
+            "CallRatingName": "CC",
+            "CallType": "Foul: Shooting",
+            "CP": "Evan Mobley",
+            "DP": "Dennis Schr?der",
+            "Difficulty": "Observable",
+            "VideolLink": "2219",
+            "Qualifier": null,
+            "posID": 1536,
+            "posStart": "01:52.3",
+            "posEnd": "01:39.5",
+            "posTeamId": 1610612751,
+            "teamIdInFavor": null,
+            "errorInFavor": "",
+            "imgChart": 24.489796
+        },
+        {
+            "PeriodName": "Q4",
+            "PCTime": "00:18.8",
+            "ImposibleIndicator": 0,
+            "Comment": "Thomas (BKN) reaches across Garland&apos;s (CLE) arms, initiating more than marginal contact during the pass.",
+            "CallRatingName": "CC",
+            "CallType": "Foul: Personal",
+            "CP": "Cam Thomas",
+            "DP": "Darius Garland",
+            "Difficulty": "Observable",
+            "VideolLink": "2220",
+            "Qualifier": null,
+            "posID": 1541,
+            "posStart": "00:26.6",
+            "posEnd": "00:15.6",
+            "posTeamId": 1610612739,
+            "teamIdInFavor": null,
+            "errorInFavor": "",
+            "imgChart": 22.44898
+        },
+        {
+            "PeriodName": "Q4",
+            "PCTime": "00:18.8",
+            "ImposibleIndicator": 0,
+            "Comment": "Finney-Smith (BKN) rests his arm across Garland&apos;s (CLE) path and marginal contact occurs as Garland moves Finney-Smith&apos;s arm away.",
+            "CallRatingName": "CNC",
+            "CallType": "Foul: Away from Play",
+            "CP": "Dorian Finney-Smith",
+            "DP": "Darius Garland",
+            "Difficulty": "Observable",
+            "VideolLink": "2221",
+            "Qualifier": null,
+            "posID": 1541,
+            "posStart": "00:26.6",
+            "posEnd": "00:15.6",
+            "posTeamId": 1610612739,
+            "teamIdInFavor": null,
+            "errorInFavor": "",
+            "imgChart": 22.44898
+        },
+        {
+            "PeriodName": "Q4",
+            "PCTime": "00:15.6",
+            "ImposibleIndicator": 0,
+            "Comment": "Finney-Smith (BKN) reaches for the ball and makes illegal contact to Mitchell&apos;s (CLE) right arm.",
+            "CallRatingName": "CC",
+            "CallType": "Foul: Personal",
+            "CP": "Dorian Finney-Smith",
+            "DP": "Donovan Mitchell",
+            "Difficulty": "Observable",
+            "VideolLink": "2222",
+            "Qualifier": null,
+            "posID": 1541,
+            "posStart": "00:26.6",
+            "posEnd": "00:15.6",
+            "posTeamId": 1610612739,
+            "teamIdInFavor": null,
+            "errorInFavor": "",
+            "imgChart": 22.44898
+        },
+        {
+            "PeriodName": "Q4",
+            "PCTime": "00:14.0",
+            "ImposibleIndicator": 0,
+            "Comment": "Finney-Smith&apos;s (BKN) arm remains within the frame of his body and he does not deliver contact as it occurs with Okoro (CLE).",
+            "CallRatingName": "CNC",
+            "CallType": "Foul: Offensive",
+            "CP": "Dorian Finney-Smith",
+            "DP": "Isaac Okoro",
+            "Difficulty": "Observable",
+            "VideolLink": "2223",
+            "Qualifier": null,
+            "posID": 1542,
+            "posStart": "00:15.6",
+            "posEnd": "00:00.0",
+            "posTeamId": 1610612751,
+            "teamIdInFavor": null,
+            "errorInFavor": "",
+            "imgChart": 30.612246
+        }
+    ]
+}

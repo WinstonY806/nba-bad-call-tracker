@@ -1,7 +1,9 @@
-// nba-tracker-frontend/postcss.config.js
+/**
+ * postcss.config.js – Tailwind 3 setup
+ */
 module.exports = {
   plugins: {
-    "@tailwindcss/postcss": {},
+    tailwindcss: {},   // 👈 don't use '@tailwindcss/postcss' here
     autoprefixer: {},
   },
 };

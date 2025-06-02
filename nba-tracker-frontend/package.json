@@ -9,19 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@tailwindcss/postcss": "latest",
     "autoprefixer": "latest",
     "next": "^14.2.29",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"  
+    "postcss": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "3.3.3"
   },
 
   "devDependencies": {
     "@types/node": "latest",
     "@types/react": "latest",
     "eslint": "latest",
-    "postcss": "latest",
-    "tailwindcss": "3.3.3",
     "typescript": "latest"
   }
 }
